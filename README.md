@@ -8,9 +8,9 @@ During the workshop, I
 + Implemented the PID controller for steering adjustment to accomplish lane following.
 + Built SVM and CNN classifiers by Scikit-learn and TensorFlow to accomplish traffic sign recognition
 + Worked as the team leader and win the 2nd prize on the match day
-
+ 
 ## main
-
+ 
 Main coding scripts could be found in `main/src/`.
 
 ## Joystick_Control
